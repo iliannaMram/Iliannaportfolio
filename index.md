@@ -5,7 +5,7 @@
 ### Graphic Design Projects
 
 [Project 1 Title](/sample_page)
-<img src="merry.png?raw=true"/>
+<img src="images/merry.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
