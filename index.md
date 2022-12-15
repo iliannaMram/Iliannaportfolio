@@ -15,7 +15,7 @@
 [Project 3 Glasses Guy
 <img src="images/glasses-guy.jpg?raw=true"/>
 
-[Project 4 3D Project 
+[Project 4 3d Project 
 <img src="images/3D project.jpg?raw=true"/>
 ---
 
