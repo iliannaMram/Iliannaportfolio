@@ -4,12 +4,12 @@
 
 ### Graphic Design Projects
 
-[Project 1 Pop Art]
+[Project 1 Christmas Art]
 <img src="images/merry.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Pop Art]
+<img src="images/Pop Art.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
