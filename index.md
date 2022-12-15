@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Pop Art]
-<img src="images/Pop Art.jpg?raw=true"/>
+<img src="images/popart.jpg?raw=true"/>
 
 ---
 [Project 3 Glasses Guy
