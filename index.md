@@ -17,13 +17,13 @@
 
 ---
 
-### Category Name 2
+### My Web Design Project 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 My Favorite Celebrity](https://trinket.io/html/e37053ec93)
+- [Project Sunrise animation](https://trinket.io/html/064c9fbfe1)
+- [Project 3 Tell a Story](https://trinket.io/html/b624631397)
+- [Project 4 Build a Robot](https://trinket.io/html/71f3c95953)
+- [Project 5 Stickers](https://trinket.io/html/fcc5303c96)
 
 ---
 
