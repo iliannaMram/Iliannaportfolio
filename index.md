@@ -4,7 +4,7 @@
 
 ### Graphic Design Projects
 
-[Project 1 Title](/sample_page)
+[Project 1 Pop Art]
 <img src="images/merry.png?raw=true"/>
 
 ---
